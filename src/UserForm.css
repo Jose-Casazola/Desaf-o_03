@@ -1,0 +1,26 @@
+.Lista_de_Usuarios {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Agregar_Usuario{
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+
+.Nombre{
+    margin-right: 98px;
+    margin-bottom: 10px;
+}
+
+.Email{
+    margin-right: 32px;
+    margin-bottom: 20px;
+}
+
+.Boton{
+    margin-bottom: 24px;
+}
